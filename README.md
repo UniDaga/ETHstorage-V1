@@ -35,23 +35,37 @@ sudo npm install -g npm@9.2
 node -v
 npm -v
 ```
-Create Temporary Directory
+## Create Temporary Directory
+```
 mkdir ~/trusted-setup-tmp && cd ~/trusted-setup-tmp
+```
 
-Install Phase2 CLI
+## Install Phase2 CLI
+```
 sudo npm install -g @p0tion/phase2cli
-Verify CLI Installation
+```
+## Verify CLI Installation
+```
 phase2cli --version
-Authenticate with GitHub
+```
+## Authenticate with GitHub
+```
 phase2cli auth
+```
 Follow the link shown in the your terminal
 Login to GitHub & authorize p0tion to access Gists
-Return to terminal WhatsApp Image 2025-08-15 at 18 36 42_07f2d159
-Contribute to the Ceremony
+Return <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/afb2b9a5-eae4-4f77-9631-ebbfc80c66ae" />
+
+to terminal WhatsApp Image 2025-08-15 at 18 36 42_07f2d159
+## Contribute to the Ceremony
+```
 screen -S ceremony
+```
+```
 phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
-it will ask for randomly/manually - just press enter button
-Final Step
+```
+-### it will ask for randomly/manually - just press enter button
+# Final Step
 Now wait for your queue
 When your turn will come the tool will process your contribution
 You have successfully contributed to the EThstorage V1 Trusted Setup Ceremony
@@ -59,14 +73,16 @@ IMP: if it asks you to wait for 10 days don't worry it won't take exactly 10 day
 many are running locally on PC :
 if their pc shuts down they will be removed from the list
 so we vps users have more chances to get in
-Important Points
-Screen Session Controls
+**## Important Points**
+## Screen Session Controls
 Detach screen: CTRL + A, then D
-Reattach screen: screen -r ceremony
+Reattach screen: `screen -r ceremony`
 Let it run until your time of contribution comes up
 Once the work after 2-3 days is done follow the below steps :
 Remove The Login Permissions After Contribution From vps :
+```
 phase2cli clean
 phase2cli logout
 cd ~ && rm -rf ~/trusted-setup-tmp
 # ETHstorage-V1
+```
