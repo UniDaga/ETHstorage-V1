@@ -52,9 +52,9 @@ phase2cli --version
 ```
 phase2cli auth
 ```
-### Follow the link shown in the your terminal-
-### Login to GitHub & authorize p0tion to access Gists-
-### Return to terminal- <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/afb2b9a5-eae4-4f77-9631-ebbfc80c66ae" />
+#### Follow the link shown in the your terminal
+#### Login to GitHub & authorize p0tion to access Gists
+#### Return to terminal <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/afb2b9a5-eae4-4f77-9631-ebbfc80c66ae" />
 
  WhatsApp Image 2025-08-15 at 18 36 42_07f2d159
 ## Contribute to the Ceremony
