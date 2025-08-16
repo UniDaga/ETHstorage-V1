@@ -4,7 +4,7 @@ ETHstorage is L2 that lets you store data and use it for games, socials, AI. It 
 This ceremony is about making sure ETHstorage stays secure and decentralized
 Ceremony will last from August 13 to 22
 ## Requirements :
-**## Local PC Ubuntu 22.04**
+## **Local PC Ubuntu 22.04**
 
 or VPS : 2 vCPU, 4GB RAM, 30GB+ SSD recommended
 
