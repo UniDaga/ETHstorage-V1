@@ -12,10 +12,6 @@ GitHub account : for authentication
 Github account age: ≥ 1 month
 At least 1 public repository
 Followings ≥ 5 accounts and atleast 1 or more followers
-Trick : if you don't want to miss the ceremony at any cost i will recommend to purchase a vps from Xorek for 2-3 days
-
-cost around : $1 only
-
 this will save you from keeping your pc on for 2-3 days continuously
 you won't miss the shot on your contribuiton's time
 ## Follow The Guide :
