@@ -73,7 +73,7 @@ IMP: if it asks you to wait for 10 days don't worry it won't take exactly 10 day
 many are running locally on PC :
 if their pc shuts down they will be removed from the list
 so we vps users have more chances to get in
-**## Important Points**
+## **Important Points**
 ## Screen Session Controls
 Detach screen: CTRL + A, then D
 Reattach screen: `screen -r ceremony`
